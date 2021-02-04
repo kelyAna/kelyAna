@@ -1,7 +1,7 @@
 
 # Welcome to my github! 👋
 
-<div align="center" width="100">
+<div align="center" width="50">
 	<img src="https://github.com/kelyAna/kelyAna/blob/main/foto.jpg">
 </div>
 
