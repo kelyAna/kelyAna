@@ -1,8 +1,8 @@
 
 # Welcome to my github! 👋
 
-<div align="center" width="50">
-	<img src="https://github.com/kelyAna/kelyAna/blob/main/foto.jpg">
+<div align="center">
+	<img src="https://github.com/kelyAna/kelyAna/blob/main/foto.jpg" width="100">
 </div>
 
 ## About me :mortar_board:
