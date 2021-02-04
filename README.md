@@ -1,4 +1,3 @@
-<img src="https://github.com/kelyAna/kelyAna/blob/main/foto.jpg">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
