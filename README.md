@@ -1,7 +1,7 @@
 
 # Welcome to my github! 👋
 
-<div align="center">
+<div align="center" width="100">
 	<img src="https://github.com/kelyAna/kelyAna/blob/main/foto.jpg">
 </div>
 
@@ -28,5 +28,4 @@ I am a student of Information Systems, currently studying at the Federal Univers
   - MongoDB
   - PostgreSQL
 
-- **Follow me**
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Kely73206301) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]()  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-kely-lopes-3869bb18b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/___anakely/)
