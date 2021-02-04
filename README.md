@@ -2,7 +2,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://github.com/kelyAna/kelyAna/blob/main/foto.jpg" width="100">
+	<img src="https://github.com/kelyAna/kelyAna/blob/main/foto.jpg" width="300">
 </div>
 
 ## About me :mortar_board:
@@ -15,12 +15,11 @@ I am a student of Information Systems, currently studying at the Federal Univers
 	- Python ❤️
 	- C
 	- Java
-  - Node
+  	- Node.js
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
 	- React with Redux :electron:
-	- React Native
 - **Other skills**
   - Machine Learning
   - Data Science
