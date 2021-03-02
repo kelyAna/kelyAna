@@ -1,18 +1,18 @@
 
-# Welcome to my github! 👋
+# Welcome to my github! ::smile:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kelyAna&show_icons=true&title_color=2c3e50&text_color=2c3e50&icon_color=2c3e50&bg_color=bdc3c7&cache_seconds=2300">
 
 ## About me :mortar_board:
-- I am a student of Information Systems at the Federal University of Ceará
-- I had my first contact with technology 5 years ago and since then I fell in love with this area 😍
-- In addition, I am a computer technician
-- Studying technology challenges me to always go beyond my limits and want to learn a lot more
-- I am passionate about data science, web development and new challenges. 🧠 
+> - I am a student of Information Systems at the Federal University of Ceará
+> - I had my first contact with technology 5 years ago and since then I fell in love with this area 😍
+> - In addition, I am a computer technician
+> - Studying technology challenges me to always go beyond my limits and want to learn a lot more
+> - I am passionate about data science, web development and new challenges. 🧠 
 
 **Girl code** 
 
-## What I know :computer:
+## What I know :computer: :satisfied:
 - **Backend Development**
 	> - Python ❤️
 	> - C
