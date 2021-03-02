@@ -1,5 +1,5 @@
 
-# Welcome to my github! ::smile:
+# Welcome to my github! :smile:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kelyAna&show_icons=true&title_color=2c3e50&text_color=2c3e50&icon_color=2c3e50&bg_color=bdc3c7&cache_seconds=2300">
 
