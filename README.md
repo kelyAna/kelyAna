@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ana Kely</h1>
+<h1 align="center">Hi, I'm Ana Kely</h1>
 <h3 align="center">I'm an Information Systems student at UFC and I'm passionate about technology. Technology changed my life, opening up opportunities to dream.</h3>
 
 - 🔭 I’m currently working on [VTEX Lab](https://www.linkedin.com/company/vtex-lab/mycompany/)
