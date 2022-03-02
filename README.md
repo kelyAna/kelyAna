@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Ana Kely</h1>
-<h3 align="center">I'm an Information Systems student at UFC and I'm passionate about technology. Technology changed my life, opening up opportunities to dream.</h3>
+<h2 align="center">Hi, I'm Ana Kely</h2>
+<h4 align="center">Graduated in Information Systems from the Federal University of Ceará (UFC). Passionate about technology and enthusiast to web developer and data scientist.</h4>
 
-- 🔭 I’m currently working on [VTEX Lab](https://www.linkedin.com/company/vtex-lab/mycompany/)
+- 🔭 I am currently a jr data scientist at Verzo - Aliança Hospitalar
 
-- 💬 Ask me about **React,Node , Machine Learning, Deep Learning and Data Base.**
+- 💬 Ask me about **React, Node , Machine Learning, Deep Learning and Data Base.**
 
 - 📫 How to reach me **kely@alu.ufc.br**
 
