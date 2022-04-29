@@ -3,7 +3,7 @@
 
 - 🔭 I am currently a software engineer at VTEX
 
-- 💬 Ask me about **React, Node , Machine Learning, Deep Learning and Data Base.**
+- 💬 Ask me about **React, Node , Machine Learning ans Deep Learning.**
 
 - 📫 How to reach me **kely@alu.ufc.br**
 
