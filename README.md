@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm Ana Kely</h2>
-<h4 align="center">Graduated in Information Systems from the Federal University of Ceará (UFC). Passionate about technology and enthusiast to web developer and data scientist.</h4>
 
 - 🔭 I am currently a software engineer at VTEX
 
