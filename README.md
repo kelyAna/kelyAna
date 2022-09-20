@@ -1,8 +1,6 @@
 <h2 align="center">Hi, I'm Ana Kely</h2>
 
-- 🔭 I am currently a software engineer at VTEX
-
-- 💬 Ask me about **React, Node , Machine Learning and Deep Learning.**
+- 👩🏽‍💻 I am currently a software engineer at VTEX
 
 - 📫 How to reach me **kely@alu.ufc.br**
 
