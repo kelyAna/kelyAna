@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Ana Kely</h2>
 
-- 👩🏽‍💻 I am currently a software engineer at VTEX
+- 👩🏽‍💻 I am currently a software engineer jr at VTEX
 
 - 📫 How to reach me **kely@alu.ufc.br**
 
